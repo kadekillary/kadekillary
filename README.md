@@ -1,3 +1,4 @@
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)"><img src="https://user-images.githubusercontent.com/25046261/229367552-ac33f37b-5643-4189-84cf-90abc930ee11.jpg"></a>
+  <a href="https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)"><img src="https://user-images.githubusercontent.com/25046261/229418869-3843d98c-1ce0-4c2a-905d-637bd0a6456d.png"></a>
+  
 </p>
