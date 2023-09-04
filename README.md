@@ -24,6 +24,11 @@
 
 <br>
 
+<details>
+<summary>&ensp;peruse</summary>
+<br>
+
+
 #### laziness
 
 * [bot for auto-generating standup overview](https://github.com/kxzk/GM)
@@ -58,3 +63,5 @@
 * [datorama](https://github.com/kxzk/datoramapy)
 * [tmdb](https://github.com/kxzk/tmdbr)
 * [brandindex](https://github.com/kxzk/brandindexr)
+
+</details>
