@@ -30,7 +30,7 @@
 
 * [pipeline for streaming, aggregating chipotle orders](https://github.com/kxzk/fake-chipotle-streaming)
 * [pipeline for pokemon battle simulation](https://github.com/kxzk/pokemon-battle-sim)
-* [pipeline for siking kafka topics to s3](https://github.com/kxzk/kafka-s3-sink-poc)
+* [pipeline for sinking kafka topics to s3](https://github.com/kxzk/kafka-s3-sink-poc)
 
 <br>
 
