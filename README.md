@@ -39,6 +39,7 @@
 * [pipeline for pokemon battle simulation](https://github.com/kxzk/pokemon-battle-sim)
 * [pipeline for sinking kafka topics to s3](https://github.com/kxzk/kafka-s3-sink-poc)
 * [dbt macros](https://github.com/kxzk/dbt-macaroni)
+* [github actions for data ci](https://github.com/kxzk/gh-actions)
 
 <br>
 
