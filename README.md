@@ -29,6 +29,7 @@
 * [bot for auto-generating standup overview](https://github.com/kxzk/GM)
 * [bot for reddit keyboards](https://github.com/kxzk/mechmarket-alert)
 * [bot for booking workout classes](https://github.com/kxzk/trufusion-booking-agent)
+* [dbt macros](https://github.com/kxzk/dbt-macaroni)
 * [fish scripts for repetitive tasks](https://github.com/kxzk/dippin-dots/tree/main/fish/.config/fish/functions)
 
 <br>
