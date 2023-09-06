@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://christojeanneclaude.net/artworks/arc-de-triomphe-wrapped/"><img src="https://i.imgur.com/XyvgGzW.png"></a>
-  <caption>L' Arc de Triomphe, Wrapped by Christo. 2021</caption>
+  <caption><em>L' Arc de Triomphe, Wrapped by Christo. 2021</em></caption>
 </p>
 
 <br>
