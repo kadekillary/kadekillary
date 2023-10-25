@@ -15,6 +15,7 @@
 
 ### `apps`
 
+* [web - rizzpls](https://rizzpls-production.up.railway.app)
 * [ios - tngtied](https://apps.apple.com/us/app/tngtied-rizz/id6449376125)
 * [ios - ai memes](https://apps.apple.com/us/app/ai-memes/id6462799665)
 
