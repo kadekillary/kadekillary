@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://christojeanneclaude.net/artworks/arc-de-triomphe-wrapped/"><img src="https://i.imgur.com/XyvgGzW.png"></a>
-  <caption><em>L' Arc de Triomphe, Wrapped</em> by Christo</caption>
+  <img src="https://github.com/kxzk/kxzk/assets/25046261/798ab237-4251-43c5-937d-b7752e6d97f4">
+  <br>
+  <caption><em>Love is Sci-Fi</em> by Justin Chance</caption>
 </p>
 
 <br>
