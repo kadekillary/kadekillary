@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/kxzk/kxzk/assets/25046261/798ab237-4251-43c5-937d-b7752e6d97f4">
+  <img src="https://i.imgur.com/Spnteky.png">
   <br>
-  <caption><em>Love is Sci-Fi</em> by Justin Chance</caption>
+  <caption><em>Kaz Kaan</em> in Neo Yokio</caption>
 </p>
 
 <br>
