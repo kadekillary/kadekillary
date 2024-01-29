@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/Spnteky.png">
-  <br>
-  <caption><em>Kaz Kaan</em> in Neo Yokio</caption>
-</p>
-
 <br>
 
 ### `use`
