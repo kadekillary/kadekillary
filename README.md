@@ -1,8 +1,7 @@
 <br>
 
 <p align="center">
-  <a href="https://archello.com/project/l-arc-de-triomphe-wrapped-by-christo"><img src="https://i.imgur.com/XyvgGzW.png"></a>
-  <caption>L' Arc de Triomphe, Wrapped by Christo. 2021</caption>
+  <a href="https://en.wikipedia.org/wiki/Soap_Bubbles_(Chardin)"><img src="https://i.postimg.cc/k5zDtRqs/download.png"></a>
 </p>
 
 <br>
